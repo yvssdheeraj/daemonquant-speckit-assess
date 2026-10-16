@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+quant_brain.db
+__pycache__/
+.pytest_cache/
+.next/
